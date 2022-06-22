@@ -1,0 +1,82 @@
+[33mcommit c792468d10cb6c840e430cabc1f91c311d58afc5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ba75d04 8f51899
+Author: feodal88 <d.ferenchuk@gmail.com>
+Date:   Wed Jun 22 00:06:02 2022 +0300
+
+    Merge pull request #1 from feodal88/newBranch
+    
+    3
+
+[33mcommit 8f51899bf576b523a24bcf33194b66ea1b2ca5c1[m[33m ([m[1;31morigin/newBranch[m[33m)[m
+Author: Diiiiima <feodal88@ukr.net>
+Date:   Wed Jun 22 00:04:24 2022 +0300
+
+    3
+
+[33mcommit ba75d04f0c1fea6333cafc903598006205d19bb3[m
+Merge: 2c7ebf6 9b86057
+Author: Diiiiima <feodal88@ukr.net>
+Date:   Tue Jun 21 23:55:43 2022 +0300
+
+    solved
+
+[33mcommit 2c7ebf615cec297b76e2d4884348a04bda676231[m
+Author: Diiiiima <feodal88@ukr.net>
+Date:   Tue Jun 21 23:47:30 2022 +0300
+
+    123
+
+[33mcommit 9b86057775ecf524c7646094c90b60c9ed649e12[m
+Author: Peter <pet@i.ua>
+Date:   Tue Jun 21 23:47:12 2022 +0300
+
+    321
+
+[33mcommit 8e690b0e1da835bc600d4fbdedb8ece95c740467[m
+Merge: a111a38 5b7295a
+Author: Peter <pet@i.ua>
+Date:   Tue Jun 21 23:45:18 2022 +0300
+
+    2
+
+[33mcommit a111a38703724c4bf20ece98b387263cf08d33dc[m
+Author: Peter <pet@i.ua>
+Date:   Tue Jun 21 23:40:28 2022 +0300
+
+    2
+
+[33mcommit 5b7295afce0aff444a704dd97df7ee770bf14d3b[m
+Author: Diiiiima <feodal88@ukr.net>
+Date:   Tue Jun 21 23:39:11 2022 +0300
+
+    1
+
+[33mcommit 3a8af1b2b1fde474fc2935093984c0b5b8cd8dc2[m
+Author: Peter <pet@i.ua>
+Date:   Tue Jun 21 23:29:02 2022 +0300
+
+    new text
+
+[33mcommit a9851d14a54c77fc47dd373f150d835f7fee31f5[m
+Author: Diiiiima <feodal88@ukr.net>
+Date:   Tue Jun 21 23:11:24 2022 +0300
+
+    Another line
+
+[33mcommit b2dc5231a326288513bea4fc78ad3c32004b3954[m
+Author: Dimas <asd@gmail.com>
+Date:   Tue Jun 21 22:35:38 2022 +0300
+
+    New data
+
+[33mcommit fabd7ac498ef28690d64f954ac0f3442321a402d[m
+Author: Dimas <asd@gmail.com>
+Date:   Tue Jun 21 22:27:43 2022 +0300
+
+    new word
+
+[33mcommit 3613db484bf6ae39d29d78171d73987367d36039[m
+Author: Dimas <asd@gmail.com>
+Date:   Tue Jun 21 22:24:12 2022 +0300
+
+    Hello world
